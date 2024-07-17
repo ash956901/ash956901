@@ -43,7 +43,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,raspberrypi,html,css,js,react,bash,docker,eclipse,express,nodejs,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,webflow,replit,sublime,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,raspberrypi,html,css,js,react,bash,docker,eclipse,express,nodejs,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,webflow,replit,sublime,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite&perline=20)](https://skillicons.dev)<span><a href="https://imgbb.com/"><img width="40" height="40" src="https://i.ibb.co/qxJZk9h/Streamlit.png" alt="Streamlit" border="0"></a></span>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash956901&show_icons=true&locale=en&layout=compact" alt="ash956901" /></p>
