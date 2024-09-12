@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ak956901@gmail.com**
   
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1R0sr9HZLguBSy9t9GRsMcJWx7POZlMHE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/e0zymreo6u9sri8ajy48k/My_resume-1.pdf?rlkey=8kc7n028losghqwr6e3if5q2o&st=68t75cbe&dl=0)
 
 - ⚡ Fun fact **A React component walks into a bar. The bartender says, "Hey, we have a two-drink minimum here. Are you sure you can handle it?" The React component replies, "Don't worry, I've got my props!"**
 
