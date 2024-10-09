@@ -10,7 +10,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on **a social media website**
+- 🔭 I’m currently working on **an e-commerce website**
 
 - 🌱 I’m currently learning **optimisations, docker, redis, streamlit,next js**
 
