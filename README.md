@@ -43,7 +43,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,raspberrypi,html,css,js,react,bash,docker,eclipse,express,nodejs,tailwind,mongodb,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,webflow,replit,sublime,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite&perline=20)](https://skillicons.dev)<span><a href="https://imgbb.com/"><img width="40" height="40" src="https://i.ibb.co/qxJZk9h/Streamlit.png" alt="Streamlit" border="0"></a></span>
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,raspberrypi,html,css,js,react,bash,docker,eclipse,express,nodejs,tailwind,mongodb,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,webflow,replit,sublime,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite,&perline=20)](https://skillicons.dev)
+
+<span><a href="https://imgbb.com/"><img width="40" height="40" src="https://i.ibb.co/qxJZk9h/Streamlit.png" alt="Streamlit" border="0"></a></span>
 
 [![An image of @ash956901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash956901)](https://holopin.io/@ash956901)
 
