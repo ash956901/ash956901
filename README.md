@@ -1,4 +1,4 @@
-![Header](mern.png)
+![image](https://github.com/user-attachments/assets/9904d0d1-2549-4d3a-993e-5310c38adc0a)![Header](mern.png)
 
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -51,7 +51,10 @@
 
 [![An image of @ash956901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash956901)](https://holopin.io/@ash956901)
 
+### My Gists
 
+[![React Query](https://img.shields.io/badge/Gist-1-blue)](https://gist.github.com/ash956901/cd877e2baefbf2aa1dd1d9f5d1dbe92a)
+[![WebWorkers](https://img.shields.io/badge/Gist-2-green)](https://gist.github.com/ash956901/c015a2685c879e30799546c1655ba609)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash956901&show_icons=true&locale=en&layout=compact" alt="ash956901" /></p>
 
