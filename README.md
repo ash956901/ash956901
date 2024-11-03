@@ -55,6 +55,7 @@
 
 [![React Query](https://img.shields.io/badge/reactQuery-1-blue)](https://gist.github.com/ash956901/cd877e2baefbf2aa1dd1d9f5d1dbe92a)
 [![WebWorkers](https://img.shields.io/badge/webWorkers-2-green)](https://gist.github.com/ash956901/c015a2685c879e30799546c1655ba609)
+[![Express5](https://img.shields.io/badge/Express5-3-red)](https://gist.github.com/ash956901/d8fd5b4028b0a2a392abe601c1fb3fcd)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ash956901&show_icons=true&locale=en&layout=compact" alt="ash956901" /></p>
 
