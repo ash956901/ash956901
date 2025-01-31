@@ -10,13 +10,13 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on **an e-commerce website**
+- 🔭 I’m currently working on **a rag application**
 
-- 🌱 I’m currently learning **optimisations, docker, redis, streamlit,next js**
+- 🌱 I’m currently learning **rag integration,multi modal input,system design**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-five-rho-46.vercel.app/)
 
-- 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, streamlit, nextjs**
+- 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, docker, rag**
 
 - 📫 How to reach me **ak956901@gmail.com**
   
