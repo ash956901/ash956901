@@ -45,9 +45,8 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,html,css,js,react,nextjs,bash,docker,express,nodejs,tailwind,mongodb,flask,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,html,css,js,react,nextjs,bash,docker,express,nodejs,tailwind,mongodb,flask,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,obsidian,firebase,appwrite,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
 
-<span><a href="https://imgbb.com/"><img width="40" height="40" src="https://i.ibb.co/qxJZk9h/Streamlit.png" alt="Streamlit" border="0"></a></span>
 
 [![An image of @ash956901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash956901)](https://holopin.io/@ash956901)
 
