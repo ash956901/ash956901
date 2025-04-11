@@ -10,13 +10,13 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on **a rag application**
+- 🔭 I’m currently working on **agents**
 
 - 🌱 I’m currently learning **rag integration,multi modal input,system design,ai agents**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-five-rho-46.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-five-rho-46.vercel.app/) (Many are private)
 
-- 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, docker, rag**
+- 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, docker, rag, agents**
 
 - 📫 How to reach me **ak956901@gmail.com**
   
@@ -45,7 +45,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,r,raspberrypi,html,css,js,react,nextjs,bash,docker,eclipse,express,nodejs,tailwind,mongodb,flask,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,webflow,replit,sublime,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,html,css,js,react,nextjs,bash,docker,express,nodejs,tailwind,mongodb,flask,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,obsidian,octave,firebase,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
 
 <span><a href="https://imgbb.com/"><img width="40" height="40" src="https://i.ibb.co/qxJZk9h/Streamlit.png" alt="Streamlit" border="0"></a></span>
 
