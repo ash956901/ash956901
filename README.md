@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **rag integration,multi modal input,system design,ai agents**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-five-rho-46.vercel.app/) (Many are private)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-latest-wheat-two.vercel.app/) (Many are private)
 
 - 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, docker, rag, agents**
 
