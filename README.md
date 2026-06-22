@@ -10,17 +10,17 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on **agents**
+- 🔭 I’m currently working on **backend systems and gen ai**
 
-- 🌱 I’m currently learning **rag integration,multi modal input,system design,ai agents**
+- 🌱 I’m currently learning **springboot, langgraph and agnentic development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-latest-wheat-two.vercel.app/) (Many are private)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-latest-wheat-two.vercel.app/) (Many are private) 
 
-- 💬 Ask me about **react, mongodb, express, node, tailwind css, redis, docker, rag, agents**
+- 💬 Ask me about **Spring Boot, MERN, redis, docker, rag, agents**
 
 - 📫 How to reach me **ak956901@gmail.com**
   
-- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/e0zymreo6u9sri8ajy48k/My_resume-1.pdf?rlkey=8kc7n028losghqwr6e3if5q2o&st=68t75cbe&dl=0)
+- 📄 Know about my experiences [My Resume](https://www.dropbox.com/scl/fi/cr04z5w01nd0za9mg5wiy/Ashu_Resume-3.pdf?rlkey=g7p5owotqw7kp0xnim37dosst&st=yky9yr16&dl=0)
 
 - ⚡ Fun fact **A React component walks into a bar. The bartender says, "Hey, we have a two-drink minimum here. Are you sure you can handle it?" The React component replies, "Don't worry, I've got my props!"**
 
@@ -45,7 +45,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,html,css,js,react,nextjs,bash,docker,express,nodejs,tailwind,mongodb,flask,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,obsidian,firebase,appwrite,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,py,html,css,js,react,nextjs,bash,docker,express,nodejs,tailwind,mongodb,fastapi,npm,postman,redis,redux,tailwind,docker,vscode,vscodium,obsidian,firebase,appwrite,git,github,linux,ubuntu,vercel,vite,yarn,vim,linkedin,github,&perline=20)](https://skillicons.dev)
 
 
 [![An image of @ash956901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash956901)](https://holopin.io/@ash956901)
